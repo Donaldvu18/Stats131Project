@@ -1,9 +1,1 @@
-x <- 2+2
-x
-
-
-y <- 3+3
-y
-
-z <- 3+3 
-z
+data <- read.csv("pgatour2006.csv")
